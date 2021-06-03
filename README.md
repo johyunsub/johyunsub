@@ -12,7 +12,7 @@
   
   ### 🌼Contact🌼
   
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>  <a href="mailto:gustjq2167@naver.com" target="_blank"><img src="https://img.shields.io/badge/E-mail-4AB248?style=flat-square&logo=Naver&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>  <a href="mailto:gustjq2167@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-4AB248?style=flat-square&logo=Naver&logoColor=white"/></a>
   
   [![HyeonSeop's GitHub stats](https://github-readme-stats.vercel.app/api?username=johyunsub&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
 
