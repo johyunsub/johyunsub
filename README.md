@@ -1,8 +1,14 @@
-<div align="center">
-
-  ![header](https://capsule-render.vercel.app/api?type=Waving&color=D8E3FF&height=250&section=header&text=Hyeonseop%20Jo&fontSize=90&fontColor=8CABFF&animation=fadeIn)
+<div align="right">
   
-  ### 🛠️Stack🛠️
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjohyunsub&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+</div>
+
+<div align="">
+  
+  ![header](https://capsule-render.vercel.app/api?type=Waving&color=D8E3FF&fontAlignY=40&height=200&section=header&text=Hyeonseop%20Jo&fontSize=70&fontColor=8CABFF&animation=fadeIn)
+  
+  
+  ### 🛠️ Stack 🛠️
   
   Techs that I've used at least once
   
@@ -10,12 +16,19 @@
   
  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira-Software&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/>
   
-  ### 🌼Contact🌼
+  ### 🌼 Contact 🌼
   
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>  <a href="mailto:gustjq2167@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-4AB248?style=flat-square&logo=Naver&logoColor=white"/></a>
+  <a href="https://www.notion.so/s-04dfec64e8794451ac441ee787d965fa" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>  <a href="mailto:gustjq2167@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-4AB248?style=flat-square&logo=Naver&logoColor=white"/></a>
+  <a href="https://www.instagram.com/seop._.cci/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
   
-  [![HyeonSeop's GitHub stats](https://github-readme-stats.vercel.app/api?username=johyunsub&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
+  ### 🏆 Stats 🏆
+  
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johyunsub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seop_cci)](https://solved.ac/seop_cci)  [![HyeonSeop's GitHub stats](https://github-readme-stats.vercel.app/api?username=johyunsub&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+  </div>
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johyunsub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+   -->
+
+
