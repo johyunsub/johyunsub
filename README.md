@@ -18,8 +18,8 @@
   
   ### 🌼 Contact 🌼
   
-  <a href="https://www.notion.so/s-04dfec64e8794451ac441ee787d965fa" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>  <a href="mailto:gustjq2167@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-4AB248?style=flat-square&logo=Naver&logoColor=white"/></a>
-  <a href="https://www.instagram.com/seop._.cci/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>  <a href="mailto:gustjq2167@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-4AB248?style=flat-square&logo=Naver&logoColor=white"/></a>
+  
   
   ### 🏆 Stats 🏆
   
